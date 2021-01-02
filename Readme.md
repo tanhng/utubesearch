@@ -1,4 +1,4 @@
-# ![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/logo.PNG)
+# ![alt tag](https://github.com/tanhng/utubesearch/blob/master/img/QTASearch.png)
 **QTASearch** is a Video Search Engine built using the Youtube API v3.
 
 * Features/Technologies: 
@@ -12,8 +12,6 @@
 ## Version
 1.0.0
 
-## Live Demo - SearchVidz
- [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
  
 ## Usage
   In your js/script.js, find functions search(), prevPage(), nextPage().  
@@ -33,11 +31,8 @@
   
  **Search Video** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/search.PNG)   |
+ ![alt text](https://github.com/tanhng/utubesearch/blob/master/img/search-view.png)   |
  
- **Play Video** | 
---- |
- ![alt text](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/video.PNG)   |
 
 ## Vendors
 jQuery - [http://jquery.com](http://jquery.com) 
