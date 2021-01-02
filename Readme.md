@@ -1,5 +1,5 @@
 # ![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/logo.PNG)
-**SearchVidz** is a Video Search Engine built using the Youtube API v3.
+**QTASearch** is a Video Search Engine built using the Youtube API v3.
 
 * Features/Technologies: 
   * HTML5, CSS3, JavaScript
